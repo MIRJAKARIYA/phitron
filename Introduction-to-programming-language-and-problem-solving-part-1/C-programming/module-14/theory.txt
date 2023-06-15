@@ -1,0 +1,31 @@
+returnType name(parameters==> int x,float y){}
+returnType name (){} ==>jor kore kichu dile kono kichu dile error dibe na
+returnType name (void){}==>jor kore kichu dile error dibe
+
+----first way==> main function er opore lekha
+int dbl(int x){
+    int s = x*2;
+    return s;
+}
+
+int main(){
+   int f = dbl(1000)
+
+
+    return 0;
+}
+
+----second way==> main function er niche lekha
+
+int dbl(int x);
+
+int main(){
+   int f = dbl(1000)
+
+
+    return 0;
+}
+int dbl(int x){
+    int s = x*2;
+    return s;
+}

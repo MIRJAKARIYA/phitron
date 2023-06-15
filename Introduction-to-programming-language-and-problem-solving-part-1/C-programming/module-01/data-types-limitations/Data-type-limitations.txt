@@ -1,0 +1,6 @@
+int => 4 bytes -2^32 -> (2^32-1) 
+long long int => 8 bytes
+
+
+float => 4 bytes
+double => 8 bytes

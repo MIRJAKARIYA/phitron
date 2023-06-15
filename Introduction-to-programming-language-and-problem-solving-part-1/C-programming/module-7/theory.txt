@@ -1,0 +1,5 @@
+data_type variableName[size]
+
+ex: 
+int arr[5]
+float arr[5]

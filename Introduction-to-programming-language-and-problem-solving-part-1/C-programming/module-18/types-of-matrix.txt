@@ -1,0 +1,58 @@
+## In mathematics, a matrix is a rectangular array or table of numbers, symbols, or expressions, arranged in rows and columns
+
+[
+    23 14 -8 33
+    17 -102 0 37    ====> 3 Rows and 4 Columns
+    3 -31 98 4
+]
+
+Dimensions: (3,4)
+
+
+------------------------------------------
+Row Matrix:
+
+[a b c]
+
+Column Matrix or Vector matrix:
+
+[
+    a
+    b
+    c
+]
+
+Zero matrix or Null matrix:
+
+[
+    0 0
+    0 0
+    0 0
+]
+
+Diagonal Matrix:
+
+[
+    a 0 0
+    0 b 0
+    0 0 c
+]
+
+Scaler matrix:
+
+[
+    a 0 0
+    0 a 0
+    0 0 a
+]
+
+Unit matrix:
+
+[
+    1 0 0
+    0 1 0
+    0 0 1
+]
+
+**Square matrix ==> rows == columns
+**rectangular matrix ==> rows != columns

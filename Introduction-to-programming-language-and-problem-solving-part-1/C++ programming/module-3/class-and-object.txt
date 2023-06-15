@@ -1,0 +1,21 @@
+class==> user defined data type.
+----------------making class
+class Student
+{
+    public:
+          char name[100];
+          int roll;
+          int cls;
+          char section;
+};
+-------------making object
+Student Rahim;
+s.roll=29;
+s.section='A';
+s.cls=7;
+s.name= "Rahim"
+
+Access modifiers:
+1.public
+2.private
+3.protected

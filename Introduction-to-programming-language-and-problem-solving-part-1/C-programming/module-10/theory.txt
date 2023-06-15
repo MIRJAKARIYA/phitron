@@ -1,0 +1,9 @@
+string =>> string is just an array of characters
+
+char a[5] ==> string
+
+
+sizeof()
+
+sizeof(int) ==> 4 byte
+sizeof(char) ==> 1 byte
